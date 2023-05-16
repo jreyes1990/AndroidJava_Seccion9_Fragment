@@ -1,10 +1,13 @@
-package com.example.seccion9_fragments;
+package com.example.seccion9_fragments.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.FragmentActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.example.seccion9_fragments.R;
+
+public class MainActivity extends FragmentActivity {
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
