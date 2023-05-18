@@ -17,10 +17,10 @@
 
   <fragment
     android:id="@+id/detailsFragment"
-    android:name="com.example.seccion9_fragments.Fragments.DatilsFragment"
+    android:name="com.example.seccion9_fragments.Fragments.DetailsFragment"
     android:layout_width="match_parent"
     android:layout_height="0dp"
     android:layout_weight="50"
-    tools:layout="@layout/fragment_datils" />
+    tools:layout="@layout/fragment_details" />
 
 </LinearLayout>
